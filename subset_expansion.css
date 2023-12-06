@@ -31,12 +31,15 @@ a, a:focus, a:hover {
 	color: blue;
 }
 .footer {
-	background-color: black;;
+	left: 0;
+	bottom: 0;
+	width: auto;
+	background-color: black;
 	color:white;
 	text-align: center;
 	font-size: large;
-	width: auto;
-	padding: 15px 25px;	
+	padding: 15px 15px;
+	margin-top: 5px;	
 }
 /* Accordion */
 .accordion{
